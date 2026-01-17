@@ -35,7 +35,6 @@
 
 **Languages:** Python, C++
 **Frameworks:** PyTorch, Isaac Gym/Lab, MuJoCo, ROS
-**Hardware:** Unitree, ANYmal, Custom platforms
 
 ---
 
